@@ -9,7 +9,9 @@
   <img src="https://img.shields.io/github/license/Cry0nn/shelltutor" alt="License">
 </p>
 
+</br>
 ---
+</br>
 
 ## 🌐 What is ShellTutor?
 
@@ -18,7 +20,7 @@ There are **no tutorials** — just a **prompt** and your job is to type the cor
 
 It’s the fastest way to practice and test your command-line knowledge.
 
----
+</br>
 
 ## ⚡ Features
 
@@ -27,7 +29,7 @@ It’s the fastest way to practice and test your command-line knowledge.
 - 🌍 **Web-based** – no installation, no login.  
 - 🚀 **Lightweight** – static site, fast load, secure.  
 
----
+</br>
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +38,7 @@ It’s the fastest way to practice and test your command-line knowledge.
 - **Data**: Static JSON (commands + answers)  
 - **Backend**: None (fully static)  
 
----
+</br>
 
 ## 🚀 Getting Started
 
@@ -45,7 +47,7 @@ It’s the fastest way to practice and test your command-line knowledge.
 3. Enter the correct shell command.  
 4. Submit & check your answer.  
 
----
+</br>
 
 ## 📌 Roadmap
 
@@ -54,7 +56,7 @@ It’s the fastest way to practice and test your command-line knowledge.
 - [ ] Mobile-first improvements  
 - [ ] Leaderboard or progress tracking  
 
----
+</br>
 
 ## 🤝 Contributing
 
@@ -65,13 +67,14 @@ Contributions are welcome! 🎉
 3. **Commit** your changes (`git commit -m 'Add new feature'`)  
 4. **Push** and open a **Pull Request**  
 
----
+</br>
 
 ## 📜 License
 
 This project is licensed under the **MIT License**.  
 See [LICENSE](LICENSE) for more info.  
 
+</br>
 ---
 
 ### ⭐ If you find this project useful, consider giving it a star!
