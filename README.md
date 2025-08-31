@@ -6,8 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/tech-HTML%20%7C%20CSS%20%7C%20JS-yellow" alt="Tech Stack">
-  <img src="https://img.shields.io/github/license/YOUR-USERNAME/shelltutor" alt="License">
-  <img src="https://img.shields.io/github/stars/YOUR-USERNAME/shelltutor?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/license/Cry0nn/shelltutor" alt="License">
 </p>
 
 ---
