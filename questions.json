@@ -1,0 +1,21 @@
+{
+	"linux": [
+		{
+			"question": "Which command lists files in the current directory?",
+			"hint": "It supports flags like -l and -a.",
+			"pattern": "^ls(\\s+.*)?$"
+		},
+		{
+			"question": "Which command lists files in the current directory?",
+			"hint": "It supports flags like -l and -a.",
+			"pattern": "cat file.txt"
+		}
+	],
+	"powershell": [
+		{
+			"question": "Which cmdlet (or alias) lists items in the current directory?",
+			"hint": "Aliases include ls, dir, gci.",
+			"pattern": "^(?:(?:Get-ChildItem)|(?:gci)|(?:ls)|(?:dir))(\\s+.*)?$"
+		}
+	]
+}
