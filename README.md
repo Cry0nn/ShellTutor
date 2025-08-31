@@ -9,9 +9,9 @@
   <img src="https://img.shields.io/github/license/Cry0nn/shelltutor" alt="License">
 </p>
 
-</br>
+
 ---
-</br>
+
 
 ## 🌐 What is ShellTutor?
 
@@ -74,7 +74,6 @@ Contributions are welcome! 🎉
 This project is licensed under the **MIT License**.  
 See [LICENSE](LICENSE) for more info.  
 
-</br>
 ---
 
 ### ⭐ If you find this project useful, consider giving it a star!
